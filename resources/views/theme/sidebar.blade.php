@@ -1,7 +1,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
   <!-- Brand Logo -->
   <a href="{{ route('home') }}" class="brand-link">
-    <img src="{{URL::asset('/theme/dist/images/logo.png')}}" alt="Sanfinity Logo" class="brand-image">
+    <img src="{{URL::asset('/theme/dist/images/logo.png')}}" alt="Logo" class="brand-image">
   </a>
   @php
   $img="Admin/no_preview.jpg";
